@@ -1,0 +1,4 @@
+C:\Users\andre\OneDrive\Documentos\WebApi\WebApi.Tests\obj\Debug\netcoreapp3.1\WebApi.Unit.Tests.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\WebApi.Tests\obj\Debug\netcoreapp3.1\WebApi.Unit.Tests.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\WebApi.Tests\obj\Debug\netcoreapp3.1\WebApi.Unit.Tests.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\WebApi.Tests\obj\Debug\netcoreapp3.1\WebApi.Unit.Tests.AssemblyInfo.cs

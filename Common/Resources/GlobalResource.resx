@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CreateErrorMessage" xml:space="preserve">
+    <value>Ha ocurrido un error ingresando el elemento. Por favor intente de nuevo.</value>
+  </data>
+  <data name="CreateSuccessMessage" xml:space="preserve">
+    <value>El elemento se creó correctamente.</value>
+  </data>
+  <data name="DecimalFormatCorrect" xml:space="preserve">
+    <value>Recuerde que los campos númericos deben tener un máximo de 15 dígitos en la parte entera y 2 dígitos en la parte decimal</value>
+  </data>
+  <data name="DefaultError" xml:space="preserve">
+    <value>Ha ocurrido un error, por favor intentarlo más tarde</value>
+  </data>
+  <data name="DeleteErrorMessage" xml:space="preserve">
+    <value>Ha ocurrido un error borrando el elemento. Por favor intente de nuevo.</value>
+  </data>
+  <data name="DeleteSuccessMessage" xml:space="preserve">
+    <value>El elemento fue removido correctamente.</value>
+  </data>
+  <data name="DeniedRegistration" xml:space="preserve">
+    <value>El elemento ya existe en la base de datos.</value>
+  </data>
+  <data name="ErrorExportList" xml:space="preserve">
+    <value>Error al exportar la información. Por favor intente de nuevo.</value>
+  </data>
+  <data name="GreaterThanMessage" xml:space="preserve">
+    <value>El valor del campo {0} debe ser mayor a {1}</value>
+  </data>
+  <data name="Id_Field_Not_Null" xml:space="preserve">
+    <value>El identificador es obligatorio</value>
+  </data>
+  <data name="InvalidCode" xml:space="preserve">
+    <value>El código ingresado no es válido</value>
+  </data>
+  <data name="InvalidEqualRangeMessage" xml:space="preserve">
+    <value>El valor del campo {0} debe ser mayor o igual a {1} y menor o igual a {2}</value>
+  </data>
+  <data name="InvalidFormatMessage" xml:space="preserve">
+    <value>El campo {0} no tiene formato correcto</value>
+  </data>
+  <data name="InvalidRangeLengthMessage" xml:space="preserve">
+    <value>El campo {0} debe contener como mínimo {1}  y máximo  {2} caracteres</value>
+  </data>
+  <data name="InvalidRangeMessage" xml:space="preserve">
+    <value>El valor del campo {0} debe ser mayor a {1} y menor a {2}</value>
+  </data>
+  <data name="ItemNotFoundMessage" xml:space="preserve">
+    <value>El elemento no fue encontrado.</value>
+  </data>
+  <data name="LoginFailMessage" xml:space="preserve">
+    <value>El usuario o contraseña es incorrecto.</value>
+  </data>
+  <data name="ProcessSuccess" xml:space="preserve">
+    <value>Proceso exitoso</value>
+  </data>
+  <data name="PropertyBetweenLengthMessage" xml:space="preserve">
+    <value>El número de caracteres del campo {0} debe estar entre {1} y {2}</value>
+  </data>
+  <data name="PropertyDecimalFormatCorrect" xml:space="preserve">
+    <value>El campo {0} debe tener un máximo de 15 dígitos en la parte entera y 2 dígitos en la parte decimal</value>
+  </data>
+  <data name="PropertyGreatherThanOrEqualMessage" xml:space="preserve">
+    <value>El valor del campo {0} debe ser mayor ó igual a {1}</value>
+  </data>
+  <data name="PropertyLessThanOrEqualMessage" xml:space="preserve">
+    <value>El valor del campo {0} debe ser menor ó igual a {1}</value>
+  </data>
+  <data name="PropertyMaxLengthMessage" xml:space="preserve">
+    <value>El campo {0} debe contener como máximo {1} caracteres</value>
+  </data>
+  <data name="PropertyMinLengthMessage" xml:space="preserve">
+    <value>El campo {0} debe contener como minimo {1} caracteres</value>
+  </data>
+  <data name="PropertyNoEqualMessage" xml:space="preserve">
+    <value>Ya existe un registro para este campo, {1}</value>
+  </data>
+  <data name="PropertyNotNullMessage" xml:space="preserve">
+    <value>El campo {0} no puede estar en blanco </value>
+  </data>
+  <data name="PropertyOnlyNumericMessage" xml:space="preserve">
+    <value>El campo {0} solo permite caracteres numéricos</value>
+  </data>
+  <data name="RefreshTokenFail" xml:space="preserve">
+    <value>El token no se puede refrescar</value>
+  </data>
+  <data name="UpdateErrorMessage" xml:space="preserve">
+    <value>Ha ocurrido un error actualizando el elemento. Por favor intente de nuevo.</value>
+  </data>
+  <data name="UpdateSuccessMessage" xml:space="preserve">
+    <value>El elemento fue actualizado correctamente.</value>
+  </data>
+  <data name="UserAccessDenied" xml:space="preserve">
+    <value>El usuario no tiene permiso para realizar esta acción</value>
+  </data>
+</root>

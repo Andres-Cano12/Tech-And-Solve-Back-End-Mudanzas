@@ -1,0 +1,31 @@
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.dev.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.GlobalResource.resources
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.GenerateResource.Cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csprojResolveAssemblyReference.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Department.DepartmentTypeResource.resources
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DistributorResource.resources
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DocumentTypeResource.resources
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.GlobalResource.resources
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Move.MoveResource.resources

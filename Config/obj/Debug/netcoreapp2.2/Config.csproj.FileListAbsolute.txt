@@ -1,0 +1,31 @@
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\Config.deps.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\Config.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\obj\Debug\netcoreapp2.2\Config.csproj.CoreCompileInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\obj\Debug\netcoreapp2.2\Config.AssemblyInfoInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\obj\Debug\netcoreapp2.2\Config.AssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\obj\Debug\netcoreapp2.2\Config.csprojResolveAssemblyReference.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\Config.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\obj\Debug\netcoreapp2.2\Config.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Config\obj\Debug\netcoreapp2.2\Config.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\Config.deps.json
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\Config.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\Config.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.dll
+C:\Users\andre\OneDrive\Documentos\WebApi\Config\obj\Debug\netcoreapp2.2\Config.pdb
