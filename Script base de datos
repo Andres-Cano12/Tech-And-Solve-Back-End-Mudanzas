@@ -1,0 +1,41 @@
+create database
+[TestTechaAndSolve]
+go
+USE [TestTechaAndSolve]
+GO
+/****** Object:  Table [dbo].[Move]    Script Date: 4/13/2020 4:28:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Move](
+	[IdMove] [int] IDENTITY(1,1) NOT NULL,
+	[IdentificationCard] [nvarchar](250) NOT NULL,
+	[DateMove] [datetime] NOT NULL,
+ CONSTRAINT [PK_Move] PRIMARY KEY CLUSTERED 
+(
+	[IdMove] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[MoveDetail]    Script Date: 4/13/2020 4:28:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[MoveDetail](
+	[IdMoveDetail] [int] IDENTITY(1,1) NOT NULL,
+	[IdMove] [int] NOT NULL,
+	[Value] [int] NOT NULL,
+	[Position] [int] NULL,
+ CONSTRAINT [PK_MoveDetail] PRIMARY KEY CLUSTERED 
+(
+	[IdMoveDetail] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[MoveDetail]  WITH CHECK ADD  CONSTRAINT [FK_MoveDetail] FOREIGN KEY([IdMove])
+REFERENCES [dbo].[Move] ([IdMove])
+GO
+ALTER TABLE [dbo].[MoveDetail] CHECK CONSTRAINT [FK_MoveDetail]
+GO
